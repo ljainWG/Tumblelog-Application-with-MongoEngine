@@ -1,0 +1,11 @@
+https://flask.palletsprojects.com/en/stable/
+
+https://flask.palletsprojects.com/en/stable/patterns/mongoengine/
+
+https://docs.mongoengine.org/projects/flask-mongoengine/en/latest/
+
+https://docs.mongoengine.org/
+
+https://docs.mongoengine.org/guide/installing.html
+
+https://docs.mongoengine.org/tutorial.html
